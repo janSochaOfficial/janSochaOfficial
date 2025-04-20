@@ -4,7 +4,7 @@
 ## Some info about me:
 - "Łączność" technical school graduate
 - Loves to code
-- Itrested in algorithms
+- Interested in algorithms
 - Hobbys: mountainbiking, hiking, gaming
 - Currently looking for summer employment
 
